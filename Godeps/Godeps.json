@@ -1,0 +1,11 @@
+{
+	"ImportPath": "fb2img-heroku",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v75",
+	"Deps": [
+		{
+			"ImportPath": "github.com/fernand-o/fb2img",
+			"Rev": "22dd62eaf56d90d4f4546685f9f731cb54914ea7"
+		}
+	]
+}
